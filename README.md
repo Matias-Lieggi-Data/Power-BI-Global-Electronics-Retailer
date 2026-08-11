@@ -43,23 +43,23 @@ The project included:
 
 ### Project Overview
 
-![Project Overview](screenshots/01-portada.png)
+![Project Overview](01-portada-png.png)
 
 ### Main Dashboard
 
-![Main Dashboard](screenshots/02-dashboard.png)
+![Main Dashboard](02-dashboard-png.png)
 
 ### Executive Summary
 
-![Executive Summary](screenshots/03-resumen-ejecutivo.png)
+![Executive Summary](/03-resumen-ejecutivo-png.png)
 
 ### Data Glossary
 
-![Data Glossary](screenshots/04-glosario.png)
+![Data Glossary](/04-glosario-png.png)
 
 ### Conclusions
 
-![Conclusions](screenshots/05-conclusion.png)
+![Conclusions](/05-conclusion-png.png)
 
 ## 🔎 Key Insights
 
